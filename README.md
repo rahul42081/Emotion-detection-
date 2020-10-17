@@ -1,2 +1,2 @@
-# Emotion-detection-
-Emotion detection end to end project using tensorflow
+# Face-Detection
+Face detection streamlit app using cascade classifiers
